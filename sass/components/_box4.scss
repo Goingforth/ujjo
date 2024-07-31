@@ -1,0 +1,10 @@
+.box4 {
+  grid-column: 1/3;
+  grid-row: 3/4;
+
+  border-bottom: $border;
+
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}

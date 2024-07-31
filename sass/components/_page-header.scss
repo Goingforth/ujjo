@@ -1,0 +1,9 @@
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  border-top: $border;
+  border-left: $border;
+  border-right: $border;
+}

@@ -1,0 +1,17 @@
+.box8 {
+  grid-column: 2/3;
+  grid-row: 6/7;
+
+  border-bottom: $border;
+
+  background-image: url("../../image/backImage.webp");
+  display: flex;
+  flex-direction: column;
+  padding: 135px 153px 131px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  font-size: 16px;
+  line-height: 24px;
+}

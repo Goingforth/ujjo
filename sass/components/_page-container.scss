@@ -1,0 +1,8 @@
+.page-container {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 979px 273px 700px 78px 722px 698px 78px 756px;
+
+  border: $border;
+}
