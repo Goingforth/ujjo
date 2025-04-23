@@ -8,4 +8,6 @@
 
 ## Technology stack
 
+- [front : ](https://ujjo-html.netlify.app/)
+
 HTML, CSS , flex, grid, animation, ticker slider CSS
