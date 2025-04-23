@@ -1,6 +1,6 @@
 # UJJO
 
-#### Demo project for skills demonstration.
+#### Demo project for skills demonstration HTML and CSS.
 
 ## Design app
 
@@ -8,4 +8,4 @@
 
 ## Technology stack
 
-HTML,CSS ,flex, grid, animation,ticker slider CSS
+HTML, CSS , flex, grid, animation, ticker slider CSS
